@@ -39,6 +39,12 @@ function main() {
     for (i = 0; i < selected_paths.length; i++) {
         path_diameter = selected_paths[i].length / (Math.PI);//diameter of circle
         PATH_LENGTH[i] = Math.round(path_diameter * 100) / 100;//Round to 2 decimal places
+        //get_path_location(selected_paths[i]);
+
+        for (n = 0; n < selected_paths[i].pathPoints.length; n++) {
+            alert(selected_paths[i].pathPoints[n]);
+        }
+        
     }
 
     //sort by largest
@@ -60,7 +66,7 @@ function main() {
 
     var R = r / PATH_LENGTH[0];//calc roundness
 
-    show_alert("Roundness: " + Math.round(R * 1000) / 1000 + "\r\n Max diameter: " + PATH_LENGTH[0] + "\r\n Mean small diameter: " + r + "\r\n\r\n All data: \r\n[" + (PATH_LENGTH).join('], ['));//show result on prompt
+    show_alert("Roundness: " + Math.round(R * 1000) / 1000 + "\r\n Max diameter: " + PATH_LENGTH[0] + "\r\n Mean small diameter: " + r + "\r\n\r\n All data: \r\n[" + (PATH_LENGTH).join('], [')+"]");//show result on prompt
 
 }
 
@@ -89,8 +95,8 @@ function extract_paths(obj, paths) {
 
 function get_path_location(paths) {
     for (var i = 0; i < paths.length; i++) {
-        paths[i].position
-        alert(paths[i].position);
+        //paths[i].position
+        //alert(paths[i].pathItem.position);
     }
 }
 
