@@ -42,5 +42,9 @@ You can use this script more simply by registering this as an action.
 ![result drawn](https://github.com/keitaroyamada/RoundnessForAI/assets/146403785/5a509675-5c42-4f52-b094-9b25f4cad566)
 ![pop-up](https://github.com/keitaroyamada/RoundnessForAI/assets/146403785/4510ae3d-bb77-4663-a9dc-57d83cdab0e0)
 
+## Test environment
+- Windows11
+- Adobe Illustrator 27.9(64bit)
+
 ## Reference
 - [Illustrator Scripting Guide](https://ai-scripting.docsforadobe.dev/index.html)
