@@ -16,7 +16,7 @@ orange: corner concaveture
 
 green: small circles that fits in the corner concaveture
 
-## install
+## Install
 
 ### Basic
 Put the "RoundnessForAI.js" on the below folder.
@@ -38,7 +38,7 @@ You can use this script more simply by registering this as an action.
 3. Search for a item "RoundnessForAI" using keywords "roundness".
 4. This script will be resistered in the action.
   
-## usage
+## Usage
 1. Draw a maximum inscribed circle and small circles that fits the corners of the particle outline.
 2. Select the circular paths to be used in the roundness calculation.
 3. Run this script from "Files>>Scripts>>RoundnessForAI" or resistered action.
