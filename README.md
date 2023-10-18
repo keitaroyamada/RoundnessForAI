@@ -2,7 +2,7 @@
 This script allows us to calculate Roundness value using circular paths in the Illustrator.
 
 ## Definition
-The roundness is one of the useful shape parameters for grain shapes. The definition is extremely simple as below.
+The roundness is one of the useful parameters for grain shapes. The definition is extremely simple as below.
 
 $$Roundness = \left({1 \over n} \sum_{k=1}^n r_k \right)/R_{max}$$
 
