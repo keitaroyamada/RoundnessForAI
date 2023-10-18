@@ -44,8 +44,9 @@ You can use this script more simply by registering this as an action.
 3. Run this script from "Files>>Scripts>>RoundnessForAI" or resistered action.
 4. The calculated roundness value is displayed in the pop-up window and drawn as the text form on the canvas.
 
-![result drawn](https://github.com/keitaroyamada/RoundnessForAI/assets/146403785/5a509675-5c42-4f52-b094-9b25f4cad566)
-![pop-up](https://github.com/keitaroyamada/RoundnessForAI/assets/146403785/4510ae3d-bb77-4663-a9dc-57d83cdab0e0)
+![result drawn](https://github.com/keitaroyamada/RoundnessForAI/assets/146403785/a6256293-ed54-4622-bf03-f313234849c4)
+![pop-up](https://github.com/keitaroyamada/RoundnessForAI/assets/146403785/4f99a987-72af-41d2-95d0-4a9e4264f5ec)
+
 
 ## Test environment
 - Windows11
