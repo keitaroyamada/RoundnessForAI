@@ -8,7 +8,7 @@ $$Roundness = \left({1 \over n} \sum_{k=1}^n r_k \right)/R_{max}$$
 
 where $R_{max}$ is the radious of maximum inscribed circle, $n$ is number of corners in the circumference and $r_i$ is the radious of $i$ th corner concaveture.
 
-![roundness model](https://github.com/keitaroyamada/RoundnessForAI/assets/146403785/159512c7-a32e-43ee-9724-9e3fbddef613)
+![roundness model](https://github.com/keitaroyamada/RoundnessForAI/assets/146403785/0a3172fc-6112-4394-b69b-33ba2825e3aa)
 
 red: maximum inscribed circle
 
