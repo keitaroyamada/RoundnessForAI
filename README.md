@@ -1,5 +1,5 @@
 # Roundness Calculation Script For Illustrator
-This script allows us to calculate Roundness value using circular paths in the Illustrator.
+This script allows us to calculate Roundness value using circular paths on the Illustrator.
 
 ## Definition
 The roundness is one of the useful parameters for grain shapes. The definition is extremely simple as below.
